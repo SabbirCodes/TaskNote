@@ -16,8 +16,7 @@ A modern, intuitive task management application built with React and motion anim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tasknote.git
-   cd tasknote
+   git clone https://github.com/SabbirCodes/TaskNote.git
    ```
 
 2. Install dependencies:
@@ -27,7 +26,7 @@ A modern, intuitive task management application built with React and motion anim
 
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Dependencies
